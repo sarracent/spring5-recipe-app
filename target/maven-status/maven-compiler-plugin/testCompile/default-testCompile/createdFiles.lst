@@ -1,0 +1,5 @@
+sarracent/springframework/domain/CategoryTest.class
+sarracent/springframework/repositories/UnitOfMeasureRepositoryTestIT.class
+sarracent/springframework/Spring5RecipeAppApplicationTests.class
+sarracent/springframework/controllers/IndexControllerTest.class
+sarracent/springframework/services/RecipeServiceImplTest.class

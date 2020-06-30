@@ -1,0 +1,14 @@
+sarracent/springframework/bootstrap/RecipeBootstrap.class
+sarracent/springframework/Spring5RecipeAppApplication.class
+sarracent/springframework/repositories/UnitOfMeasureRepository.class
+sarracent/springframework/domain/Difficulty.class
+sarracent/springframework/domain/Category.class
+sarracent/springframework/services/RecipeServiceImpl.class
+sarracent/springframework/repositories/CategoryRepository.class
+sarracent/springframework/domain/Notes.class
+sarracent/springframework/domain/Ingredient.class
+sarracent/springframework/domain/Recipe.class
+sarracent/springframework/repositories/RecipeRepository.class
+sarracent/springframework/services/RecipeService.class
+sarracent/springframework/controllers/IndexController.class
+sarracent/springframework/domain/UnitOfMeasure.class

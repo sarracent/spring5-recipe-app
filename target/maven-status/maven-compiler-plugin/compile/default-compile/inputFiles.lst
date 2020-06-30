@@ -1,0 +1,14 @@
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/domain/Ingredient.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/domain/Category.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/domain/Recipe.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/services/RecipeServiceImpl.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/bootstrap/RecipeBootstrap.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/repositories/CategoryRepository.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/repositories/UnitOfMeasureRepository.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/Spring5RecipeAppApplication.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/domain/Difficulty.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/services/RecipeService.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/domain/UnitOfMeasure.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/controllers/IndexController.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/repositories/RecipeRepository.java
+/home/damians/spring-boot-workspace/spring5-recipe-app/src/main/java/sarracent/springframework/domain/Notes.java
